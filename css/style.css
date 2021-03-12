@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 450%;
+    color: #66a6bf;
+}
+
+h3 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 130%;
+    color: #66a6bf;
+    m
+}
+
+p {
+    font-size: 120%;
+    color: #66a6bf;
+    font-weight: normal;
+    line-height: 2;
+    clear: both;
+}
+
+.top-container {
+    width: auto;
+    background-color: rgb(187, 239, 255);
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.top-cloud {
+    position: absolute;
+    right: 30px;
+    top: 40px;
+}
+
+.middle-cloud {
+    position: absolute;
+    left: 20px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin: 20px;
+    border-radius: 100%;
+}
+
+.chillie-img {
+    width: 25%;
+    float: right;
+    margin: 20px;
+}
+
+.row-skill {
+    width: 50%;
+    margin: 10% auto 10% auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr {
+    width: 10%;
+    border: dotted gray 7px;
+    border-bottom: none;
+}
